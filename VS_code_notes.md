@@ -3,7 +3,7 @@
 UI extensions:
 Extensions --> Filter --> Category --> Themes
 Option - VS Code:
-![VS Code - Extensions](VS_Code_-_Extensions_-_Themes.png)
+![VS Code - Extensions](Attachments/VS_Code_-_Extensions_-_Themes.png)
 - Interesting Theme is: **One Dark Pro**
 - Interesting Icons are in: **Material icon Theme**
 - Extension: Prettier - to improve file formatting, e.g. automatic indenting, adding semicolons at the of the line, when necessary, etc.
@@ -12,7 +12,7 @@ Option - VS Code:
 	- 
 
 To manually change Themes:
-![alt text](VS_Code_-_Select_Theme.png)
+![Select Themes](Attachments/VS_Code_-_Select_Theme.png)
 
 ## AI stuff
 *To start with AI press `Ctrl+I`*
