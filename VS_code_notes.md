@@ -2,10 +2,13 @@
 ### Themes:
 UI extensions:
 Extensions --> Filter --> Category --> Themes
-Option Obsidian:
-![[VS Code - Extensions - Themes.png]]
 Option - VS Code:
-![VS Code - Extensions](image-1.png)
+![VS Code - Extensions](VS_Code_-_Extensions_-_Themes.png)
+- Interesting Theme is: **One Dark Pro**
+- Interesting Icons are in: **Material icon Theme**
+
+To manually change Themes:
+![alt text](./Attachments/image.png)
 
 ## AI stuff
 *To start with AI press `Ctrl+I`*
