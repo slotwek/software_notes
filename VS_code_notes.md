@@ -1,4 +1,11 @@
 ## Extensions
+### Themes:
+UI extensions:
+Extensions --> Filter --> Category --> Themes
+Option Obsidian:
+![[VS Code - Extensions - Themes.png]]
+Option - VS Code:
+![VS Code - Extensions](image-1.png)
 
 ## AI stuff
 *To start with AI press `Ctrl+I`*
