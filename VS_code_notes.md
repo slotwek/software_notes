@@ -8,7 +8,7 @@ Option - VS Code:
 - Interesting Icons are in: **Material icon Theme**
 - Extension: Prettier - to improve file formatting, e.g. automatic indenting, adding semicolons at the of the line, when necessary, etc.
 	- To enable it - you have to go to: Settings --> search `default formatter`
-		![[Attachments/vs.png]]
+		![](Attachments/vs.png)
 	- 
 
 To manually change Themes:
