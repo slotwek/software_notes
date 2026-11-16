@@ -1,22 +1,10 @@
-## Extensions
-
-### Themes:
-
-UI extensions:
-Extensions --> Filter --> Category --> Themes
-Option - VS Code:
-![VS Code - Extensions](Attachments/VS_Code_-_Extensions_-_Themes.png)
-
-- Interesting Theme is: **One Dark Pro**
-- Interesting Icons are in: **Material icon Theme**
-- Extension: **Prettier** - to improve file formatting, e.g. automatic indenting, adding semicolons at the of the line, when necessary, etc.
-  - To enable it - you have to go to: Settings --> search `default formatter`
-    ![](Attachments/VS_Code_-_Set_Prettier.png)
-- Extension: **Live Server** - is for editing HTML files - it will setup a virtual page of your project. So, you can preview changes in real life (well, you have to save the file first) - just open web browser as `http://127.0.0.1:5500/page.html`  
-	- Quick overview [here](https://youtu.be/lWEKiak0WVU?si=jhOABVXuWThpZLwe&t=1393)
-
-To manually change Themes:
-![Select Themes](Attachments/VS_Code_-_Select_Theme.png)
+---
+date: 2026-11-16
+aliases:
+relates_to:
+---
+# Extensions
+[[VS Code - plugins]]
 
 # Command palette
 - Execute commands in VS Code - press: `Ctrl + Shift + P` and type your command!
@@ -24,6 +12,7 @@ To manually change Themes:
 - To zoom in/out the whole application press: `Ctrl + +` or `Ctrl + -`
 	- To reset press: `Ctrl + Num 0`
 		- I have modified it to `Ctrl + 0` as used in other applications - e.g. Firefox or Chrome
+- Switch off the "Minimap" (file preview) search for `View: Toggle Minimap`
 
 # Navigating Palette: `Ctrl + P`
 - [Video demonstration](https://youtu.be/lWEKiak0WVU?si=__mIRH66Z1-X4ZzE&t=1838)
@@ -35,6 +24,10 @@ To manually change Themes:
 - Hide/Show side panel: `Ctrl + B`
 - You can modify behaviour of the app by changing: Settings / Keyboard 
 	- Changed: `View Reset Zoom` from: `Ctrl + NumPad0` to `Ctrl + 0` 
+
+# Profiles:
+*You can create different profiles for different languages you're using. So, they will have the settings you may want to use for that particular language.*
+![[VS_Code_-_Profiles.png]]
 
 ## AI stuff
 _To start with AI press `Ctrl+I`_
@@ -49,3 +42,6 @@ In the field write what you want to achieve. In my case:
 > df = pd.read_csv("file.csv")
 > print(df.head())
 > ```
+
+---
+[[VS Code - main]]
